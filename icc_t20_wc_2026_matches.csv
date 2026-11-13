@@ -1,0 +1,56 @@
+match_no,date,stage,group_name,team_1,team_2,team_1_icc_rank,team_2_icc_rank,rank_gap,team_1_is_host,team_2_is_host,winner,margin_type,margin_value,dominance_index,is_upset,higher_ranked_won
+1,2026-02-07,Group Stage,Group A,Pakistan,Netherlands,6,13,7,0,0,Pakistan,wickets,3,30.0,0,1.0
+2,2026-02-07,Group Stage,Group C,West Indies,Scotland,7,14,7,0,0,West Indies,runs,35,31.5,0,1.0
+3,2026-02-07,Group Stage,Group A,India,USA,1,18,17,1,0,India,runs,29,26.1,0,1.0
+4,2026-02-08,Group Stage,Group D,New Zealand,Afghanistan,4,10,6,0,0,New Zealand,wickets,5,50.0,0,1.0
+5,2026-02-08,Group Stage,Group C,England,Nepal,3,16,13,0,0,England,runs,4,3.6,0,1.0
+6,2026-02-08,Group Stage,Group B,Sri Lanka,Ireland,8,12,4,1,0,Sri Lanka,runs,20,18.0,0,1.0
+7,2026-02-09,Group Stage,Group C,Scotland,Italy,14,26,12,0,0,Scotland,runs,73,65.7,0,1.0
+8,2026-02-09,Group Stage,Group B,Zimbabwe,Oman,11,20,9,0,0,Zimbabwe,wickets,8,80.0,0,1.0
+9,2026-02-09,Group Stage,Group D,South Africa,Canada,5,19,14,0,0,South Africa,runs,57,51.3,0,1.0
+10,2026-02-10,Group Stage,Group A,Netherlands,Namibia,13,15,2,0,0,Netherlands,wickets,7,70.0,0,1.0
+11,2026-02-10,Group Stage,Group D,New Zealand,UAE,4,17,13,0,0,New Zealand,wickets,10,100.0,0,1.0
+12,2026-02-10,Group Stage,Group A,Pakistan,USA,6,18,12,0,0,Pakistan,runs,32,28.8,0,1.0
+13,2026-02-11,Group Stage,Group D,South Africa,Afghanistan,5,10,5,0,0,South Africa,super_over,0,5.0,0,1.0
+14,2026-02-11,Group Stage,Group B,Australia,Ireland,2,12,10,0,0,Australia,runs,67,60.3,0,1.0
+15,2026-02-11,Group Stage,Group C,West Indies,England,7,3,4,0,0,West Indies,runs,30,27.0,1,0.0
+16,2026-02-12,Group Stage,Group B,Sri Lanka,Oman,8,20,12,1,0,Sri Lanka,runs,105,94.5,0,1.0
+17,2026-02-12,Group Stage,Group C,Italy,Nepal,26,16,10,0,0,Italy,wickets,10,100.0,1,0.0
+18,2026-02-12,Group Stage,Group A,India,Namibia,1,15,14,1,0,India,runs,93,83.7,0,1.0
+19,2026-02-13,Group Stage,Group B,Zimbabwe,Australia,11,2,9,0,0,Zimbabwe,runs,23,20.7,1,0.0
+20,2026-02-13,Group Stage,Group D,UAE,Canada,17,19,2,0,0,UAE,wickets,5,50.0,0,1.0
+21,2026-02-13,Group Stage,Group A,USA,Netherlands,18,13,5,0,0,USA,runs,93,83.7,1,0.0
+22,2026-02-14,Group Stage,Group B,Ireland,Oman,12,20,8,0,0,Ireland,runs,96,86.4,0,1.0
+23,2026-02-14,Group Stage,Group C,England,Scotland,3,14,11,0,0,England,wickets,5,50.0,0,1.0
+24,2026-02-14,Group Stage,Group D,South Africa,New Zealand,5,4,1,0,0,South Africa,wickets,7,70.0,1,0.0
+25,2026-02-15,Group Stage,Group C,West Indies,Nepal,7,16,9,0,0,West Indies,wickets,9,90.0,0,1.0
+26,2026-02-15,Group Stage,Group A,USA,Namibia,18,15,3,0,0,USA,runs,31,27.9,1,0.0
+27,2026-02-15,Group Stage,Group A,India,Pakistan,1,6,5,1,0,India,runs,61,54.9,0,1.0
+28,2026-02-16,Group Stage,Group D,Afghanistan,UAE,10,17,7,0,0,Afghanistan,wickets,5,50.0,0,1.0
+29,2026-02-16,Group Stage,Group C,England,Italy,3,26,23,0,0,England,runs,24,21.6,0,1.0
+30,2026-02-16,Group Stage,Group B,Sri Lanka,Australia,8,2,6,1,0,Sri Lanka,wickets,8,80.0,1,0.0
+31,2026-02-17,Group Stage,Group D,New Zealand,Canada,4,19,15,0,0,New Zealand,wickets,8,80.0,0,1.0
+32,2026-02-17,Group Stage,Group B,Ireland,Zimbabwe,12,11,1,0,0,No Result,no_result,0,0.0,0,
+33,2026-02-17,Group Stage,Group C,Nepal,Scotland,16,14,2,0,0,Nepal,wickets,7,70.0,1,0.0
+34,2026-02-18,Group Stage,Group D,South Africa,UAE,5,17,12,0,0,South Africa,wickets,6,60.0,0,1.0
+35,2026-02-18,Group Stage,Group A,Pakistan,Namibia,6,15,9,0,0,Pakistan,runs,102,91.8,0,1.0
+36,2026-02-18,Group Stage,Group A,India,Netherlands,1,13,12,1,0,India,runs,17,15.3,0,1.0
+37,2026-02-19,Group Stage,Group C,West Indies,Italy,7,26,19,0,0,West Indies,runs,42,37.8,0,1.0
+38,2026-02-19,Group Stage,Group B,Zimbabwe,Sri Lanka,11,8,3,0,1,Zimbabwe,wickets,6,60.0,1,0.0
+39,2026-02-19,Group Stage,Group D,Afghanistan,Canada,10,19,9,0,0,Afghanistan,runs,82,73.8,0,1.0
+40,2026-02-20,Group Stage,Group B,Australia,Oman,2,20,18,0,0,Australia,wickets,9,90.0,0,1.0
+41,2026-02-21,Super 8,Group 2,New Zealand,Pakistan,4,6,2,0,0,No Result,no_result,0,0.0,0,
+42,2026-02-22,Super 8,Group 2,England,Sri Lanka,3,8,5,0,1,England,runs,51,45.9,0,1.0
+43,2026-02-22,Super 8,Group 1,South Africa,India,5,1,4,0,1,South Africa,runs,76,68.4,1,0.0
+44,2026-02-23,Super 8,Group 1,West Indies,Zimbabwe,7,11,4,0,0,West Indies,runs,107,96.3,0,1.0
+45,2026-02-24,Super 8,Group 2,England,Pakistan,3,6,3,0,0,England,wickets,2,20.0,0,1.0
+46,2026-02-25,Super 8,Group 2,New Zealand,Sri Lanka,4,8,4,0,1,New Zealand,runs,61,54.9,0,1.0
+47,2026-02-26,Super 8,Group 1,South Africa,West Indies,5,7,2,0,0,South Africa,wickets,9,90.0,0,1.0
+48,2026-02-26,Super 8,Group 1,India,Zimbabwe,1,11,10,1,0,India,runs,72,64.8,0,1.0
+49,2026-02-27,Super 8,Group 2,England,New Zealand,3,4,1,0,0,England,wickets,4,40.0,0,1.0
+50,2026-02-28,Super 8,Group 2,Pakistan,Sri Lanka,6,8,2,0,1,Pakistan,runs,5,4.5,0,1.0
+51,2026-03-01,Super 8,Group 1,South Africa,Zimbabwe,5,11,6,0,0,South Africa,wickets,5,50.0,0,1.0
+52,2026-03-01,Super 8,Group 1,India,West Indies,1,7,6,1,0,India,wickets,5,50.0,0,1.0
+53,2026-03-04,Semi-final,Knockout,New Zealand,South Africa,4,5,1,0,0,New Zealand,wickets,9,90.0,0,1.0
+54,2026-03-05,Semi-final,Knockout,India,England,1,3,2,1,0,India,runs,7,6.3,0,1.0
+55,2026-03-08,Final,Knockout,India,New Zealand,1,4,3,1,0,India,runs,96,86.4,0,1.0
